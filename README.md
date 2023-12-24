@@ -1,14 +1,5 @@
-<div align="right">
-  <a href="https://dly.to/8QnXl5WKV4T" target="_blank">
-    <img
-      width="250"
-      align="left"
-      src="https://raw.githubusercontent.com/otnansirk/otnansirk/main/devcard.svg"
-    />
-  </a>
-</div>
 
-### Hi there, I'm Otnansirk 👋
+### Hi there, I'm EginRyzen 👋
 
 <!--Website -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krisnanto010/)
