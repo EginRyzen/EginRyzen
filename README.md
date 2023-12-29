@@ -11,7 +11,7 @@
 </a>
 
 
-![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=otnansirk&theme=gotham&show_icons=true)
+![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=EginRyzen&theme=gotham&show_icons=true)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otnansirk&" alt="otnansirk" /></p> -->
 
