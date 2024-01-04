@@ -12,7 +12,7 @@
 
 
 ![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=EginRyzen&theme=gotham&show_icons=true)
-<span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+<span style="border-radius: 10; overflow: hidden; display: inline-block;">
   <img width="193" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </span>
 
