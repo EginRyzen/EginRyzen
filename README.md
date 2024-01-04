@@ -12,7 +12,7 @@
 
 
 ![Otnansirk github stats](https://github-readme-stats.vercel.app/api?username=EginRyzen&theme=gotham&show_icons=true)
-<span><img width="192"  border-radius="10" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></span>
+<span><img width="193"  border-radius="10" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></span>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otnansirk&" alt="otnansirk" /></p> -->
 
