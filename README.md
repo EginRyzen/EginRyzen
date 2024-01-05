@@ -16,7 +16,7 @@
   <img width="193" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </span>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EginRyzen&bg_line=14b8a6&point=f43f5e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EginRyzen&bgcolor=0f172a&color=f43f5e&_line=14b8a6&point=f43f5e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otnansirk&" alt="otnansirk" /></p> -->
 
