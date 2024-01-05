@@ -21,7 +21,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EginRyzen&bg_color=0f172a&color=00a3cc&line=14b8a6&point=f43f5e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/EginRyzen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EginRyzen&langs_count=5&title_color=00a3cc&text_color=00a3cc&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=EginRyzen&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0F172A&ring=14B8A6&fire=F43F5E&currStreakNum=F43F5E&currStreakLabel=F43F5E&sideLabels=F43F5E&sideNums=F43F5E&dates=E2E8F0&stroke=14B8A6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EginRyzen&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00a3cc&ring=14B8A6&fire=F43F5E&currStreakNum=F43F5E&currStreakLabel=F43F5E&sideLabels=F43F5E&sideNums=F43F5E&dates=E2E8F0&stroke=14B8A6)](https://git.io/streak-stats)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otnansirk&" alt="otnansirk" /></p> -->
 
