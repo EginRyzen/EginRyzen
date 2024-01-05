@@ -18,7 +18,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfikar-ditya&bg_color=0f172a&color=f43f5e&line=14b8a6&point=f43f5e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfikar-ditya&bg_color=0f172a&color=00a3cc&line=14b8a6&point=f43f5e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otnansirk&" alt="otnansirk" /></p> -->
