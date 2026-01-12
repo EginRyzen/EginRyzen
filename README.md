@@ -2,8 +2,8 @@
 ### Hi there, I'm EginRyzen 👋
 
 <!--Website -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egin-widodo-7684a62a6/)
-[![MyProfile Badge](https://img.shields.io/badge/Profile-512dcf?style=flat-square&logo=About.me&logoColor=white)](https://eginryzen.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egin-sefiano-widodo/)
+[![MyProfile Badge](https://img.shields.io/badge/Profile-512dcf?style=flat-square&logo=About.me&logoColor=white)](https://eginryzendev.vercel.app/)
 [![Shorten URL Badge](https://img.shields.io/badge/Shorten_URL-e4514b?style=flat-square&logo=google-chrome&logoColor=white)](https://rebrands.netlify.app)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EginRyzen.EginRyzen)
 <!-- <a href="https://github.com/otnansirk/reference-for-learning/wiki" target="_blank">
